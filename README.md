@@ -1,6 +1,8 @@
 # 🎃 Halloween SublimeText
 Цветовая схема для Sublime Text
 
+![Screenshot](https://github.com/Fsoky/Halloween-SublimeText/blob/main/images/Screenshot_1.png)
+
 ## 👻 Ууууу.....становка
 
 1. **🔮 Клонируем репозиторий**
